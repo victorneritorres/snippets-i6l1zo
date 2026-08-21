@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victorneritorres.github.io/snippets-i6l1zo/sitemap.xml
